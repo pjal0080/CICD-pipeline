@@ -36,6 +36,8 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>cicd-pipeline</finalName>
 	</build>
+
 
 </project>
